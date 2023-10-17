@@ -1,1 +1,1 @@
-[OpenAlex](https://docs.openalex.org/)
+- [OpenAlex](https://docs.openalex.org/)
