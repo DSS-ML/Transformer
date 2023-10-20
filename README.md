@@ -7,3 +7,5 @@
 - [LLaMA](https://arxiv.org/abs/2302.13971)
 - [RoBERTa](https://arxiv.org/abs/1907.11692)
 - [Hugging Face](https://huggingface.co/models)
+
+abbonato@unistra.fr
