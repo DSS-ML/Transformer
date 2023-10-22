@@ -9,3 +9,5 @@
 - [Hugging Face](https://huggingface.co/models)
 
 abbonato@unistra.fr
+
+![alt text](Untitled.png)
