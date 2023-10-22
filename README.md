@@ -10,4 +10,4 @@
 
 abbonato@unistra.fr
 
-![alt text](Untitled.png)
+<img src="Untitled.png" alt="drawing" width="200"/>
