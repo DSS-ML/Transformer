@@ -10,6 +10,3 @@
 
 abbonato@unistra.fr
 
-<img src="Untitled.png" alt="drawing" width="200"/>
-
- [👀](https://www.myinstants.com/it/instant/estoy-loco-64074/?utm_source=copy&utm_medium=share)
